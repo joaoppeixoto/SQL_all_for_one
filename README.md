@@ -56,7 +56,7 @@ Lembre-se que você pode consultar nosso conteúdo sobre [Git & GitHub](https://
 
 - Projeto individual.
 
-- Serão `1` dias de projeto.
+- Será `1` dia de projeto.
 
 - Data de entrega para avaliação final do projeto: `05/04/2023 14:00`.
   </details>
