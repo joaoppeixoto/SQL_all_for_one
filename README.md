@@ -316,9 +316,9 @@ Monte queries para encontrar as informações esperadas pelos desafios.
 
 - **:warning: Atenção:** Os testes são executados em uma cópia do banco de dados, o `northwind_tests`. Por isto as _querys_  devem indicar somente o nome da tabela, e não utilizar o formato `db.table`.
 
-- Exemplo de query `correta`: SELECT product_name FROM products;
+- Exemplo de query `compatível com o teste`: SELECT product_name FROM products;
 
-- Exemplo de query `incorreta`: SELECT product_name FROM northwind.products;
+- Exemplo de query `incompatível com o teste`: SELECT product_name FROM northwind.products;
 
 
 ## Desafios Iniciais
